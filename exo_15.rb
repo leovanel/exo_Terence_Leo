@@ -7,5 +7,5 @@ age=0
 nb_annee.times do
     annee += 1
     age += 1
-	puts  "#{annee.to_s} #{age.to_s}"
+	puts  "#{annee.to_s} #{age.to_s} ans"
 end
